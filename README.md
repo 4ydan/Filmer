@@ -9,5 +9,3 @@ https://whatdinner.com/
 Someone made something similar:
 
 https://play.google.com/store/apps/details?id=co.queue.app&hl=en-US&pli=1
-
-Read reviews, make it better.
